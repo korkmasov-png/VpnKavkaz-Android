@@ -4,11 +4,11 @@ VPN-клиент для телефонов, планшетов и Android TV. Р
 
 ## Скачать
 
-**[Скачать VpnKavkaz 0.31-preview — универсальный APK](https://github.com/korkmasov-png/VpnKavkaz-Android/releases/download/v0.31/VpnKavkaz-0.31-preview-universal.apk)**
+**[Скачать VpnKavkaz 0.32-preview — универсальный APK](https://github.com/korkmasov-png/VpnKavkaz-Android/releases/download/v0.32/VpnKavkaz-0.32-preview-universal.apk)**
 
 APK подходит для телефонов, планшетов и телевизоров с Android 8+. Во время установки Android может запросить разрешение на установку приложений из этого источника.
 
-SHA-256: `c2fcea5dfa498a3860ce8f923bb4771e717118d140bf12c208b548ff36e807f6`
+SHA-256: `99e51b189539e8dcf3f933a315a56112b98f2871ae175eaec190d41e8d4ba486`
 
 ## Возможности
 
